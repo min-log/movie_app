@@ -6,7 +6,7 @@ const Navigation=()=>{
 	return (
 		<div className="nav">
 			<div className="logo">
-				<img src="/img/logo.png" />
+				<img src={process.env.PUBLIC_URL + '/img/logo.png'}/>
 				<p>Movie</p>
 			</div>
 			<Link to="/">Home</Link>

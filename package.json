@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://min-log.github.io/movie_app",
+  "homepage": "http://min-log.github.io/movie_app/",
   "eslintConfig": {
     "extends": [
       "react-app",
