@@ -4,7 +4,8 @@
 	font-weight: 700;
 	font-style: normal;
 }
-* {box-sizing: border-box;font-family: 'BookkMyungjo-Bd';}
+*,body {box-sizing: border-box;font-family: 'BookkMyungjo-Bd';text-decoration:none}
+a {color:#333}
 
 .container {
 	height: 100%;
