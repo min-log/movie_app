@@ -1,0 +1,4 @@
+.movie_detail {padding:40px;margin-top:100px;background-color: white;border-radius: 5px;}
+.movie_detail .title {font-size:20px;font-weight:bold;margin-bottom:20px}
+.movie_detail .img {margin-top:-100px;margin-bottom: 50px;box-shadow: 3px 3px 5px 3px rgba(0, 0, 0, 0.4);}
+.movie_detail .year {font-size:14px;color:#202020;margin-bottom:20px;}

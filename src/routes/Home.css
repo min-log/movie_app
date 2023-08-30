@@ -1,0 +1,10 @@
+.movie_list {display:flex;flex-wrap: wrap;}
+.movie_list .movie_item {width:calc(50% - 10px);}
+.movie_list .movie_item:nth-child(2n) {margin-left:20px}
+
+
+@media screen and (max-width:900px) {
+	.movie_list {display:block;}
+	.movie_list .movie_item {width:100%;margin-left:0}
+	
+}
