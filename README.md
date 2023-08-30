@@ -1,6 +1,6 @@
 # Movie App
 
-- 작업일 : 2023.08.30
+- 작업일 : 2023.08.29 - 2023.08.30
 - 깃 배포 : <a href="http://min-log.github.io/movie_app">http://min-log.github.io/movie_app</a>
 
 ## 작업 및 공부 내용
